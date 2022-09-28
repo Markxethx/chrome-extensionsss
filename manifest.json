@@ -1,0 +1,32 @@
+scrimba
+Learn JavaScript for free
+Chrome Extension
+Congrats & recap
+
+let & const
+3:12
+Congrats & recap
+Expand for more info
+let & const
+3:12
+manifest.json
+123456789101112
+{    "manifest_version": 3,    "version": "1.0",    "name": "Leads tracker",    "action": {        "default_popup": "index.html",        "default_icon": "icon.png"    },    "permissions": [        "tabs"    ]}
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
+Find
+No Results
+
+CONSOLE
+/index.html
+
